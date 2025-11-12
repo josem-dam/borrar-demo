@@ -1,0 +1,4 @@
+<!ELEMENT caca (item+)>
+<!ELEMENT item (name, value)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT value (#PCDATA)>

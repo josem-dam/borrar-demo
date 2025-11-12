@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE caca SYSTEM "caca.dtd">
+<caca>
+    <item>
+        <name>Example Item 1</name>
+        <value>42</value>
+    </item>
+    <item>
+        <name>Example Item 2</name>
+        <value>84</value>
+    </item>
+</caca>
